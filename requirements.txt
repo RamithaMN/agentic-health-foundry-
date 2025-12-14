@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-openai
+pydantic
+python-dotenv
+aiosqlite
+langgraph-checkpoint-sqlite
+fastapi
+uvicorn
+sse-starlette
+mcp
